@@ -15,7 +15,18 @@ public class Git {
 		public void address() {
 			System.out.println(" Chennai ");
 		}
-		
+	
+		public void ps5() {
+			System.out.println(" PS5 ");
+		}
+		public void ps4() {
+			
+			System.out.println( "PS4");
+		}
+		public void ps3() {
+			System.out.println("PS3");
+		}
+
 		
 		public void school() {
 			System.out.println( " EHKN" );
@@ -31,6 +42,7 @@ public class Git {
 			System.out.println(" VVBHSS ");
 		}
 	}
+
 
 
 
